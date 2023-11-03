@@ -18,8 +18,8 @@
     ]
   },
   "dependencies": {
-    "emoji-regex": "^9.0.0",
-    "tlds": "^1.207.0"
+    "emoji-regex": "^10.3.0",
+    "tlds": "^1.245.0"
   },
   "description": "Extracts email address from an arbitrary text input.",
   "devDependencies": {
