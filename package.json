@@ -60,7 +60,7 @@
   ],
   "license": "BSD-3-Clause",
   "main": "./dist/index.js",
-  "name": "@brandboom/extract-email-address",
+  "name": "@brandboom.com/extract-email-address",
   "nyc": {
     "include": [
       "src/**/*.js"
